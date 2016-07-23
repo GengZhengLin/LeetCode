@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{3B0D7637-666B-4B28-90EB-1775F596C2CC}</ProjectGuid>
+    <ProjectGuid>{6B7725B2-8118-409B-89F2-8923F4FB90E7}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My33Search</RootNamespace>
+    <RootNamespace>My99RecoverTree</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>033Search</ProjectName>
+    <ProjectName>099RecoverTree</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

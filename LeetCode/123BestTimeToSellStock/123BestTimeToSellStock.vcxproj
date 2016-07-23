@@ -19,11 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{3B0D7637-666B-4B28-90EB-1775F596C2CC}</ProjectGuid>
+    <ProjectGuid>{180B71C4-2E37-40B5-9608-BF65078A4CCD}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My33Search</RootNamespace>
+    <RootNamespace>My123BestTimeToSellStock</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>033Search</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

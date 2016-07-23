@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{3B0D7637-666B-4B28-90EB-1775F596C2CC}</ProjectGuid>
+    <ProjectGuid>{F3AA5659-2C2C-48FF-9966-A06D51E7488E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My33Search</RootNamespace>
+    <RootNamespace>My97InterleaveString</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>033Search</ProjectName>
+    <ProjectName>097InterleaveString</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
